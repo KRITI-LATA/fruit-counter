@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 40px;
+
+  border-radius: 8px;
+}
+.heading-text {
+  color: #000000;
+  font-family: 'Roboto';
+}
+.span-text {
+  color: #ffd569;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.mango-image {
+  height: 300px;
+  width: 220px;
+}
+.mango-button {
+  background-color: #007bff;
+  padding: 13px;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border-color: #ffffff;
+}
